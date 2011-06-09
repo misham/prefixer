@@ -1,0 +1,6 @@
+*.o
+bin/*
+prefixer
+core.*
+doc
+tests/prefixer_test
